@@ -49,6 +49,25 @@
     width: 100%;
 }
 
+#sectionVantagensClubeFlorescer{
+    background-color: #E6E6E6;
+}
+
+ul,li {
+    list-style: none;
+}
+
+#txtParceiros{
+    padding: 4rem 15rem 0 15rem;
+}
+
+#headerCardPlanos{
+    background-color: #FEBF00;
+}
+
+#listBeneficios{
+    line-height: 30px;
+}
 
 @media screen and (max-width: 768px)  {
 
@@ -81,5 +100,10 @@
         padding: 2rem;
         width: 100%;
         height: 100%;
+    }
+
+    #txtParceiros{
+        margin-top: 2rem;
+        padding: 0;
     }
 }

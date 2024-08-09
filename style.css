@@ -1,0 +1,85 @@
+#logoClubeFlorescer{
+    width: 10rem;
+}
+
+#imgBgEstetoscopio{
+    position: relative;
+    display: block;
+}
+
+#imgEstetoscopio{
+    position: absolute;
+    left: 50%;
+    top: 0;
+}
+
+#imgCoin{
+    position: absolute;
+    left: 55%;
+    top: 20%;
+}
+
+#sectionVideoFlorescer{
+    background-color: rgba(254,191,0,1);
+}
+
+#containerVideoFlorescer{
+    padding: 2rem 10rem 0 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+#florescerYT{
+    margin-top: 2rem;
+}
+
+#videoFlorescerYT{
+    width: 560px;
+    height: 315px;
+}
+
+#vantagensClubeFlorescer{
+    justify-content: center;
+    align-items: center;
+}
+
+#celularFlorescer{
+    width: 100%;
+}
+
+
+@media screen and (max-width: 768px)  {
+
+    #logoClubeFlorescer{
+        width: 8rem;
+    }
+
+    #imgEstetoscopio{
+        position: absolute;
+        left: 0%;
+        top: 40%;
+    }
+
+    #imgCoin{
+        position: absolute;
+        left: 0%;
+        top: 60%;
+    }
+
+    #containerInfo{
+        text-align: center;
+        padding-top: 5rem;
+    }
+    
+    #containerVideoFlorescer{
+        padding: 0;
+    }
+
+    #videoFlorescerYT{
+        padding: 2rem;
+        width: 100%;
+        height: 100%;
+    }
+}

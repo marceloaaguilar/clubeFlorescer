@@ -154,6 +154,7 @@ ul,li {
         position: absolute;
         left: 50%;
         top: 35%;
+        width: 15rem;
     }
 
     #containerInfo{

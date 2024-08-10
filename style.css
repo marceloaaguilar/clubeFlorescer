@@ -141,20 +141,20 @@ ul,li {
     #imgEstetoscopio{
         position: absolute;
         left: 0%;
-        top: 40%;
+        top: 50%;
     }
 
     #imgCoin{
         position: absolute;
         left: 0%;
-        top: 60%;
+        top: 75%;
     }
     
     #imgCoin2{
         position: absolute;
         left: 50%;
-        top: 35%;
-        width: 15rem;
+        top: 50%;
+        width: 10rem;
     }
 
     #containerInfo{
